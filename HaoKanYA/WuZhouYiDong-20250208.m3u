@@ -1,5 +1,4 @@
 #EXTM3U
-
 x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
 #EXTINF:-1 tvg-name="公众号『壹来了』" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="公众号【壹来了】",关注公众号『壹来了』
@@ -8,15 +7,11 @@ https://gh-proxy.com/raw.githubusercontent.com/CyWinth2025/SuCai/refs/heads/main
 #EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="公众号【壹来了】",关注公众号【壹来了】
 http://39.134.64.179:6610/PLTV/88888888/224/3221226537/index.m3u8?IASHttpSessionId=OTT3178220250207065701021964
 
-
-
-
 #两广粤语频道
 
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="两广粤语频道",广州综合频道[请关注公众号：壹来了]
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 
-#EXTNOTE 请关注公众号：“壹来了” （直播问题反馈）
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="两广粤语频道",广州综合频道[请关注公众号：壹来了]
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 
@@ -55,10 +50,6 @@ http://live.wzrtv.cn:80/jysh1/sd/live.m3u8
 
 #EXTINF:-1 tvg-name="梧州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/梧州新闻综合.png" group-title="两广粤语频道",梧州新闻综合频道
 http://live.wzrtv.cn:80/xwzh1/sd/live.m3u8
-
-
-
-
 
 #央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="国家央视频道",CCTV-1 综合
