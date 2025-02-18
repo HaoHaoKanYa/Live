@@ -6,7 +6,7 @@ x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 https://gitee.com/vv2029/SuCai/raw/master/output.m3u8
 
 #EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="移动IPTV",关注公众号【壹来了】
-http://39.134.65.194/PLTV/88888888/224/3221225506/1.m3u8
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #移动IPTV#
 #两广粤语频道
@@ -232,7 +232,7 @@ http://39.135.32.24:6610/PLTV/77777777/224/3221226270/index.m3u8?servicetype=1&I
 https://gitee.com/vv2029/SuCai/raw/master/output.m3u8
 
 #EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/yilailogo.jpg" group-title="电信IPTV",关注公众号【壹来了】
-http://171.105.31.26:6610/gitv_live/G_HUNAN-HD-265-8M/1.m3u8?Playtype=1&m3u8_level=2&IASHttpSessionId=RR824420240531031155144522
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #两广粤语频道
 
