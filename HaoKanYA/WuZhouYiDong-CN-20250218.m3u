@@ -5,7 +5,7 @@ x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-name="公众号『壹来了』" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/ONETV-LOGO.png" group-title="公众号【壹来了】",关注公众号『壹来了』
 https://gitee.com/vv2029/SuCai/raw/master/output.m3u8
 
-#EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/ONETV-LOGO.png" group-title="公众号【壹来了】",轮播频道（试看-卡台上下切换即可）
+#EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/ONETV_LOGO.png" group-title="公众号【壹来了】",轮播频道（试看-卡台上下切换即可）
 http://27.41.250.140:801/hls/541/index.m3u8 
 
 
