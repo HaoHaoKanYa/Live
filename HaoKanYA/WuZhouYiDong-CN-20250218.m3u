@@ -8,6 +8,9 @@ https://gitee.com/vv2029/SuCai/raw/master/output.m3u8
 #EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/ONETV_LOGO.png" group-title="公众号【壹来了】",轮播频道（试看-卡台上下切换即可）
 http://27.41.250.140:801/hls/541/index.m3u8 
 
+#EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/ONETV_LOGO.png" group-title="公众号【壹来了】",网络收集随时失效
+https://gitee.com/vv2029/SuCai/raw/master/gonggao_2/gonggao_2.m3u8
+
 
 #两广粤语频道
 
