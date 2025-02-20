@@ -5,7 +5,7 @@ x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-name="公众号『壹来了』" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/ONETV_LOGO.png" group-title="公众号【壹来了】",关注公众号『壹来了』
 https://gitee.com/vv2029/SuCai/raw/master/output.m3u8
 
-#EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/ONETV_LOGO.png" group-title="公众号【壹来了】",轮播频道（试看-卡台上下切换即可）
+#EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/ONETV_LOGO.png" group-title="公众号【壹来了】",轮播频道-TVB翡翠台（试看-卡台上下切换即可）
 http://27.41.250.140:801/hls/541/index.m3u8 
 
 #EXTINF:-1 tvg-name="公众号【壹来了】" tvg-logo="https://gitee.com/vv2029/gitee2025/raw/master/ONETV_LOGO.png" group-title="公众号【壹来了】",网络收集随时失效
@@ -47,9 +47,6 @@ http://ar-ca2.jdiptv.cc//live/gdty.m3u8?kdstime=1738154154&kdssign=69e180bce2320
 
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="地方频道",大湾区卫视频道（试看-卡台上下切换即可）
 http://39.135.32.24:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-
-#EXTINF:-1 tvg-name="梧州公共频道" tvg-logo="https://live.fanmingming.cn/tv/梧州公共.png" group-title="地方频道",梧州公共电视频道
-http://live.wzrtv.cn:80/ggpd1/sd/live.m3u8
 
 #EXTINF:-1 tvg-name="梧州教育生活" tvg-logo="https://live.fanmingming.cn/tv/梧州教育生活.png" group-title="地方频道",梧州教育生活频道
 http://live.wzrtv.cn:80/jysh1/sd/live.m3u8
